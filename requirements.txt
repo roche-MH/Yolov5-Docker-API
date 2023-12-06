@@ -1,0 +1,4 @@
+python-multipart
+pandas
+pillow==10.1
+fastapi
